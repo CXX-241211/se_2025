@@ -1,8 +1,20 @@
 # 1. 序列图
 
-![withdrawCashATMRealisation](./EX5.assets/withdrawCashATMRealisation-1747101299273-6.jpg)
 
-![Sale List](./EX5.assets/Sale List-1747101302797-8.jpg)
+
+##### - sale list
+
+![Sale List](./EX5.assets/Sale List.jpg)
+
+
+
+##### - withdraw
+
+![withdrawCashATMRealisation](./EX5.assets/withdrawCashATMRealisation.jpg)
+
+
+
+##### - redis
 
 ![redis](./EX5.assets/redis.png)
 
